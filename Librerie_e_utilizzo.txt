@@ -1,0 +1,6 @@
+Salve, Pitone Programmatore.
+Ecco la lista delle librerie utilizzate:
+- Tkinter: Utilizzata per la creazione della GUI
+- PyAudio: Indispensabile per Speech_Recognition
+- Speech_Recognition: Utilizzata per registrare la voce
+
